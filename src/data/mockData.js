@@ -1,0 +1,17 @@
+export const mockTransactions = [
+    { id: 1, date: "2025-01-05", description: "Salary", amount: 50000, category: "Income", type: "income" },
+    { id: 2, date: "2025-01-10", description: "Rent", amount: 10000, category: "Housing", type: "expense" },
+    { id: 3, date: "2025-01-12", description: "Groceries", amount: 5000, category: "Food", type: "expense" },
+    { id: 4, date: "2025-01-15", description: "Netflix", amount: 2000, category: "Entertainment", type: "expense" },
+    { id: 5, date: "2025-01-18", description: "Freelance", amount: 15000, category: "Income", type: "income" },
+    { id: 6, date: "2025-02-01", description: "Salary", amount: 50000, category: "Income", type: "income" },
+    { id: 7, date: "2025-02-05", description: "Rent", amount: 10000, category: "Housing", type: "expense" },
+    { id: 8, date: "2025-02-08", description: "Electricity", amount: 2000, category: "Utilities", type: "expense" },
+    { id: 9, date: "2025-02-15", description: "Dining out", amount: 3000, category: "Food", type: "expense" },
+    { id: 10, date: "2025-02-18", description: "Gym", amount: 2000, category: "Health", type: "expense" },
+    { id: 11, date: "2025-03-01", description: "Salary", amount: 50000, category: "Income", type: "income" },
+    { id: 12, date: "2025-03-05", description: "Rent", amount: 10000, category: "Housing", type: "expense" },
+    { id: 13, date: "2025-03-10", description: "Shopping", amount: 5000, category: "Shopping", type: "expense" },
+    { id: 14, date: "2025-03-15", description: "Internet", amount: 1000, category: "Utilities", type: "expense" },
+    { id: 15, date: "2025-03-20", description: "Bonus", amount: 10000, category: "Income", type: "income" },
+];
